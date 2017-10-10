@@ -19,8 +19,8 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Degree",
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
