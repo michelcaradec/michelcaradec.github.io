@@ -11,4 +11,8 @@ Follow this link to navigate in [Meetups in Rennes](https://michelcaradec.github
 
 A sample graph can be played with on [Neo4j Console](http://console.neo4j.org/?id=l771u9).
 
+## Mobile
+
+[Accelerometer test](https://michelcaradec.github.io//Mobile/accelerometer.html)
+
 *Built with [GitHub Pages](https://pages.github.com/).*
