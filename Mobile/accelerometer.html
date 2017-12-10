@@ -1,4 +1,12 @@
+<!DOCTYPE html>
 <html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Accelerometer test</title>
+</head>
+<body>  
 <script>
     if ('Accelerometer' in window && 'Gyroscope' in window) {
         document.getElementById('moApi').innerHTML = 'Generic Sensor API';
@@ -80,9 +88,5 @@
         <td id="moInterval"></td>
     </tr>
 </table>
-<p>
-    <small>Demo based on
-        <a href="https://www.html5rocks.com/en/tutorials/device/orientation/" target="_blank">HTML5 Rocks</a> article.</small>
-</p>
-
+    </body>
 </html>
