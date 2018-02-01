@@ -15,6 +15,8 @@ A sample graph can be played with on [Neo4j Console](http://console.neo4j.org/?i
 
 See [What Web Can Do Today](https://whatwebcando.today) for an overview of the device integration **HTML5 APIs**.
 
+Also check [Can I Use](https://caniuse.com/).
+
 ### Accelerometer
 
 [Accelerometer test](https://michelcaradec.github.io//Mobile/accelerometer.html).
