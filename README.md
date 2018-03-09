@@ -11,6 +11,10 @@ Follow this link to navigate in [Meetups in Rennes](https://michelcaradec.github
 
 A sample graph can be played with on [Neo4j Console](http://console.neo4j.org/?id=l771u9).
 
+## Introduction to Neo4j
+
+Presentation given at [Breizh Data Club](http://breizhdataclub.org/) Meetup "[Neo4j : introduction et cas d'usage](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/248016369/)": [Slides](https://github.com/michelcaradec/michelcaradec.github.io/blob/master/Neo4j%20Introduction/index.html)
+
 ## Mobile
 
 See [What Web Can Do Today](https://whatwebcando.today) for an overview of the device integration **HTML5 APIs**.
