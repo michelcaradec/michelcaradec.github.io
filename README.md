@@ -13,7 +13,7 @@ A sample graph can be played with on [Neo4j Console](http://console.neo4j.org/?i
 
 ## Introduction to Neo4j
 
-Presentation given at [Breizh Data Club](http://breizhdataclub.org/) Meetup "[Neo4j : introduction et cas d'usage](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/248016369/)": [Slides](https://github.com/michelcaradec/michelcaradec.github.io/blob/master/Neo4j%20Introduction/index.html)
+Presentation given at [Breizh Data Club](http://breizhdataclub.org/) Meetup "[Neo4j : introduction et cas d'usage](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/248016369/)": [Slides](Neo4j%20Introduction/index.html).
 
 ## Mobile
 
