@@ -31,7 +31,7 @@
   - [Article d'introduction](https://www.linkedin.com/pulse/oxsirene-identification-des-revendeurs-dune-place-de-michel-caradec).
   - Projets Github [OxSirene-Server](https://github.com/michelcaradec/oxsirene-server) et [OxSirene-Chrome](https://github.com/michelcaradec/oxsirene-chrome).
 - **Déput-O-Score** : Synthèse d'activité des députés
-  - [Application en ligne](https://mcaradec.shinyapps.io/Deput-O-Score/)
+  - [Application en ligne](https://mcaradec.shinyapps.io/Deput-O-Score/).
   - [Projet Github](https://github.com/michelcaradec/deput-o-score/).
 - [Cartographie Big Data Cloud](https://goo.gl/8rY508).
 - [Cloud Storage Pricing](https://mcaradec.shinyapps.io/CloudStoragePricing/).
