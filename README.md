@@ -1,6 +1,22 @@
 # Portfolio
 
-*Avertissement : tous les projets référencés sur cette page ont été réalisés hors-contexte professionnel, dans le cadre de travaux personnels.*
+*Avertissement : tous les projets référencés sur cette page ont été réalisés hors-contexte professionnel, dans le cadre de travaux originaux et personnels.*
+
+## Meetup
+
+- **Paris Datageeks** - [U-SQL Case Study](https://www.meetup.com/fr-FR/Paris-Datageeks/events/234174268/)
+  - [Présentation](https://www.slideshare.net/mcaradec/paris-dldatageeks-meetup-05102016).
+- **Rennes Data Club** - [Panama Papers : Investigation et Big Data](https://www.meetup.com/fr-FR/Rennes-Data-Club/events/237520740/)
+  - [Présentation](https://github.com/michelcaradec/Panama-Papers).
+  - [Vidéo présentation](https://youtu.be/9iGVzYIBelw).
+- **[Breizh Data Day](https://breizhdataday.github.io/)** - [Panama Papers : Investigation et Big Data](https://github.com/breizhdataday/BreizhDataDay1)
+  - [Vidéos évènement](https://www.youtube.com/watch?v=nTMbH2c3u_A&list=PLsBLUu9leTLaMWncLJ0SK-0tLi8-nWulj).
+  - [Vidéo présentation](https://youtu.be/gyY_2kMAf08).
+- **Breizh Data Club** - [Neo4j : introduction et cas d'usage](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/248016369/)
+  - [Présentation](https://michelcaradec.github.io/Neo4j%20Introduction/index.html).
+- **Microsoft User Group** - [Projet OxSirene : Places de marché et empreinte carbone](https://www.meetup.com/fr-FR/Microsoft-User-Group-Rennes/events/261257377/)
+  - [Présentation](https://github.com/michelcaradec/michelcaradec.github.io/tree/master/OxSirene).
+  - [Vidéo présentation](https://youtu.be/x-lm7UE26g4).
 
 ## Conférence & Podcast
 
@@ -9,23 +25,7 @@
   - [Bilan de la journée](https://www.lairedu.fr/collection/journee-detude-big-et-open-data/).
 - Podcast Bigdata Hebdo [Microsoft U-SQL avec Michel Caradec](https://www.spreaker.com/user/vhe74/episode-35-microsoft-u-sql-avec-michel-c).
 
-## Meetup
-
-- Paris Datageeks - [U-SQL Case Study](https://www.meetup.com/fr-FR/Paris-Datageeks/events/234174268/)
-  - [Présentation](https://www.slideshare.net/mcaradec/paris-dldatageeks-meetup-05102016).
-- Rennes Data Club - [Panama Papers : Investigation et Big Data](https://www.meetup.com/fr-FR/Rennes-Data-Club/events/237520740/)
-  - [Présentation](https://github.com/michelcaradec/Panama-Papers).
-  - [Vidéo présentation](https://youtu.be/9iGVzYIBelw).
-- [Breizh Data Day](https://breizhdataday.github.io/) - [Panama Papers : Investigation et Big Data](https://github.com/breizhdataday/BreizhDataDay1)
-  - [Vidéos évènement](https://www.youtube.com/watch?v=nTMbH2c3u_A&list=PLsBLUu9leTLaMWncLJ0SK-0tLi8-nWulj).
-  - [Vidéo présentation](https://youtu.be/gyY_2kMAf08).
-- Breizh Data Club - [Neo4j : introduction et cas d'usage](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/248016369/)
-  - [Présentation](https://michelcaradec.github.io/Neo4j%20Introduction/index.html).
-- Microsoft User Group - [Projet OxSirene : Places de marché et empreinte carbone](https://www.meetup.com/fr-FR/Microsoft-User-Group-Rennes/events/261257377/)
-  - [Présentation](https://github.com/michelcaradec/michelcaradec.github.io/tree/master/OxSirene).
-  - [Vidéo présentation](https://youtu.be/x-lm7UE26g4).
-
-## Projets
+## Projets - Développement
 
 - **OxSirene** : Identification des revendeurs d'une place de marché les plus proches de chez vous
   - [Article d'introduction](https://www.linkedin.com/pulse/oxsirene-identification-des-revendeurs-dune-place-de-michel-caradec).
@@ -36,13 +36,9 @@
 - [Cartographie Big Data Cloud](https://goo.gl/8rY508).
 - [Cloud Storage Pricing](https://mcaradec.shinyapps.io/CloudStoragePricing/).
 
-De nombreux autres projets sont disponibles sur [Github](https://github.com/michelcaradec/) et [RPubs](http://rpubs.com/mcaradec).
+De nombreux autres projets sont disponibles sur [Github](https://github.com/michelcaradec/) et [RPubs](http://rpubs.com/mcaradec), développés avec les technologies [.NET Core](https://dotnet.microsoft.com), [R](https://cran.r-project.org), [Python](https://www.python.org), [Neo4j](https://neo4j.com) ou [Notebook Jupyter](https://jupyter.org).
 
-## Open Data
-
-- [Réutilisations data.gouv.fr](https://www.data.gouv.fr/fr/users/michel-caradec/) (plateforme ouverte des données publiques françaises).
-
-## Data-Bzh
+## Data-Bzh - Data journalisme
 
 Contributeur sur [Data-Bzh](http://data-bzh.fr/), blog dédié à l'Open Data en Bretagne :
 
@@ -67,6 +63,23 @@ Contributeur sur [Data-Bzh](http://data-bzh.fr/), blog dédié à l'Open Data en
   - [Partie 3 (Neo4j](http://data-bzh.fr/groupes-meetup-a-rennes-partie-3-neo4j/).
   - [Interface de navigation](https://michelcaradec.github.io/MeetupRennes/member_to_group/index.html).
   - [Graphe exemple](http://console.neo4j.org/?id=l771u9) dans la console Neo4j.
+
+Articles réalisés avec l'environnement statistique **[R](https://cran.r-project.org)**.
+
+## Open Data
+
+- [Réutilisations data.gouv.fr](https://www.data.gouv.fr/fr/users/michel-caradec/) (plateforme ouverte des données publiques françaises).
+
+## Blog et présentations
+
+- Blog [SQL Server Analysis Services](https://bimatters1403.wordpress.com).
+- Présentations sur [SlideShare](http://www.slideshare.net/mcaradec/).
+
+## Associations
+
+- Co-animateur du [Meetup Breizh Data Club](https://www.meetup.com/Breizh-Data-Club/).
+- Membre de l'[association Breizh Data Club](http://breizhdataclub.org/).
+- Organisation du [Breizh Data Day](https://breizhdataday.github.io).
 
 ## Mentions
 
@@ -98,14 +111,3 @@ Contributeur sur [Data-Bzh](http://data-bzh.fr/), blog dédié à l'Open Data en
 
 > Michel Caradec, responsable technique de Cegid à Rennes, vous présente les projets et atouts du leader des logiciels de gestion en France.  
 > ...
-
-## Blog et présentations
-
-- Blog [SQL Server Analysis Services](https://bimatters1403.wordpress.com).
-- Présentations sur [SlideShare](http://www.slideshare.net/mcaradec/).
-
-## Associations
-
-- Co-animateur du [Meetup Breizh Data Club](https://www.meetup.com/Breizh-Data-Club/).
-- Membre de l'[association Breizh Data Club](http://breizhdataclub.org/).
-- Organisation du [Breizh Data Day](https://breizhdataday.github.io).
