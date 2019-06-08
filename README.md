@@ -1,5 +1,7 @@
 # Portfolio
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
 > I hear and I forget.  
 > I see and I remember.  
 > I do and I understand.
@@ -9,6 +11,8 @@
 *Avertissement : tous les projets référencés sur cette page ont été réalisés hors-contexte professionnel, dans le cadre de travaux originaux et personnels.*
 
 ## Meetup
+
+<i class="fab fa-meetup fa-4x"></i>
 
 - **Paris Datageeks** : [U-SQL Case Study](https://www.meetup.com/fr-FR/Paris-Datageeks/events/234174268/)
   - [Présentation](https://www.slideshare.net/mcaradec/paris-dldatageeks-meetup-05102016).
@@ -26,12 +30,16 @@
 
 ## Conférence & Podcast
 
+<i class="fas fa-microphone-alt fa-4x"></i>
+
 - Table ronde [Big & Open Data : conséquences et compétences pour les professionnels de l’information](https://jerennes2015.sciencesconf.org/resource/page/id/5)
   - [Vidéo table ronde](https://www.lairedu.fr/media/video/conference/les-professionnels-de-linformation-face-aux-data/).
   - [Bilan de la journée](https://www.lairedu.fr/collection/journee-detude-big-et-open-data/).
 - Podcast **Bigdata Hebdo** : [Microsoft U-SQL avec Michel Caradec](https://www.spreaker.com/user/vhe74/episode-35-microsoft-u-sql-avec-michel-c).
 
 ## Projets - Développement
+
+<i class="fas fa-project-diagram fa-4x"></i>
 
 - **OxSirene** : Identification des revendeurs d'une place de marché les plus proches de chez vous
   - [Article d'introduction](https://www.linkedin.com/pulse/oxsirene-identification-des-revendeurs-dune-place-de-michel-caradec).
@@ -45,6 +53,8 @@
 De nombreux autres projets sont disponibles sur [Github](https://github.com/michelcaradec/) et [RPubs](http://rpubs.com/mcaradec), développés avec les technologies **[.NET Core](https://dotnet.microsoft.com)**, **[R](https://cran.r-project.org)**, **[Python](https://www.python.org)**, **[Neo4j](https://neo4j.com)** ou **[Notebook Jupyter](https://jupyter.org)**.
 
 ## Data-Bzh - Data journalisme
+
+<i class="fab fa-r-project fa-4x"></i>
 
 Contributeur sur **[Data-Bzh](http://data-bzh.fr/)**, blog dédié à l'Open Data en Bretagne :
 
@@ -74,9 +84,13 @@ Articles réalisés avec l'environnement statistique **[R](https://cran.r-projec
 
 ## Open Data
 
+<i class="fab fa-osi fa-4x"></i>
+
 - [Réutilisations data.gouv.fr](https://www.data.gouv.fr/fr/users/michel-caradec/) (plateforme ouverte des données publiques françaises).
 
 ## Blog et présentations
+
+<i class="fas fa-blog fa-4x"></i>
 
 - Blog [SQL Server Analysis Services](https://bimatters1403.wordpress.com).
 - Présentations sur [SlideShare](http://www.slideshare.net/mcaradec/).
@@ -88,6 +102,8 @@ Articles réalisés avec l'environnement statistique **[R](https://cran.r-projec
 - Organisation du [Breizh Data Day](https://breizhdataday.github.io).
 
 ## Mentions
+
+<i class="fas fa-quote-right fa-4x"></i>
 
 - Newsletter [This Week in Neo4j](https://neo4j.com/blog/this-week-neo4j-javascript-crud-apps-personalised-recommendation-engines-graph-theory-tutorial/).
 
