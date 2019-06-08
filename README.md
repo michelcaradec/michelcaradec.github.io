@@ -4,17 +4,17 @@
 
 ## Meetup
 
-- **Paris Datageeks** - [U-SQL Case Study](https://www.meetup.com/fr-FR/Paris-Datageeks/events/234174268/)
+- **Paris Datageeks** : [U-SQL Case Study](https://www.meetup.com/fr-FR/Paris-Datageeks/events/234174268/)
   - [Présentation](https://www.slideshare.net/mcaradec/paris-dldatageeks-meetup-05102016).
-- **Rennes Data Club** - [Panama Papers : Investigation et Big Data](https://www.meetup.com/fr-FR/Rennes-Data-Club/events/237520740/)
+- **Rennes Data Club** : [Panama Papers - Investigation et Big Data](https://www.meetup.com/fr-FR/Rennes-Data-Club/events/237520740/)
   - [Présentation](https://github.com/michelcaradec/Panama-Papers).
   - [Vidéo présentation](https://youtu.be/9iGVzYIBelw).
-- **[Breizh Data Day](https://breizhdataday.github.io/)** - [Panama Papers : Investigation et Big Data](https://github.com/breizhdataday/BreizhDataDay1)
+- **[Breizh Data Day](https://breizhdataday.github.io/)** : [Panama Papers - Investigation et Big Data](https://github.com/breizhdataday/BreizhDataDay1)
   - [Vidéos évènement](https://www.youtube.com/watch?v=nTMbH2c3u_A&list=PLsBLUu9leTLaMWncLJ0SK-0tLi8-nWulj).
   - [Vidéo présentation](https://youtu.be/gyY_2kMAf08).
-- **Breizh Data Club** - [Neo4j : introduction et cas d'usage](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/248016369/)
+- **Breizh Data Club** : [Neo4j - Introduction et cas d'usage](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/248016369/)
   - [Présentation](https://michelcaradec.github.io/Neo4j%20Introduction/index.html).
-- **Microsoft User Group** - [Projet OxSirene : Places de marché et empreinte carbone](https://www.meetup.com/fr-FR/Microsoft-User-Group-Rennes/events/261257377/)
+- **Microsoft User Group** : [Projet OxSirene - Places de marché et empreinte carbone](https://www.meetup.com/fr-FR/Microsoft-User-Group-Rennes/events/261257377/)
   - [Présentation](https://github.com/michelcaradec/michelcaradec.github.io/tree/master/OxSirene).
   - [Vidéo présentation](https://youtu.be/x-lm7UE26g4).
 
@@ -23,7 +23,7 @@
 - Table ronde [Big & Open Data : conséquences et compétences pour les professionnels de l’information](https://jerennes2015.sciencesconf.org/resource/page/id/5)
   - [Vidéo table ronde](https://www.lairedu.fr/media/video/conference/les-professionnels-de-linformation-face-aux-data/).
   - [Bilan de la journée](https://www.lairedu.fr/collection/journee-detude-big-et-open-data/).
-- Podcast Bigdata Hebdo [Microsoft U-SQL avec Michel Caradec](https://www.spreaker.com/user/vhe74/episode-35-microsoft-u-sql-avec-michel-c).
+- Podcast **Bigdata Hebdo** : [Microsoft U-SQL avec Michel Caradec](https://www.spreaker.com/user/vhe74/episode-35-microsoft-u-sql-avec-michel-c).
 
 ## Projets - Développement
 
@@ -36,11 +36,11 @@
 - [Cartographie Big Data Cloud](https://goo.gl/8rY508).
 - [Cloud Storage Pricing](https://mcaradec.shinyapps.io/CloudStoragePricing/).
 
-De nombreux autres projets sont disponibles sur [Github](https://github.com/michelcaradec/) et [RPubs](http://rpubs.com/mcaradec), développés avec les technologies [.NET Core](https://dotnet.microsoft.com), [R](https://cran.r-project.org), [Python](https://www.python.org), [Neo4j](https://neo4j.com) ou [Notebook Jupyter](https://jupyter.org).
+De nombreux autres projets sont disponibles sur [Github](https://github.com/michelcaradec/) et [RPubs](http://rpubs.com/mcaradec), développés avec les technologies **[.NET Core](https://dotnet.microsoft.com)**, **[R](https://cran.r-project.org)**, **[Python](https://www.python.org)**, **[Neo4j](https://neo4j.com)** ou **[Notebook Jupyter](https://jupyter.org)**.
 
 ## Data-Bzh - Data journalisme
 
-Contributeur sur [Data-Bzh](http://data-bzh.fr/), blog dédié à l'Open Data en Bretagne :
+Contributeur sur **[Data-Bzh](http://data-bzh.fr/)**, blog dédié à l'Open Data en Bretagne :
 
 - [Étude de la carte scolaire rennaise](http://data-bzh.fr/etude-de-la-carte-scolaire-rennaise/).
 - Démographie bretonne
