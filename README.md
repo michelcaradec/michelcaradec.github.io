@@ -8,7 +8,9 @@
 
 > Information shared, knowledge squared.
 
-*Avertissement : tous les projets référencés sur cette page ont été réalisés hors-contexte professionnel, dans le cadre de travaux originaux et personnels.*
+<small>
+*Tous les projets référencés sur cette page ont été réalisés hors-contexte professionnel, dans le cadre de travaux originaux et personnels.*
+</small>
 
 ## Meetup
 
