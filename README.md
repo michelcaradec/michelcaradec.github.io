@@ -97,6 +97,8 @@ Articles réalisés avec l'environnement statistique **[R](https://cran.r-projec
 
 ## Associations
 
+<i class="fas fa-user-friends fa-4x"></i>
+
 - Co-animateur du [Meetup Breizh Data Club](https://www.meetup.com/Breizh-Data-Club/).
 - Membre de l'[association Breizh Data Club](http://breizhdataclub.org/).
 - Organisation du [Breizh Data Day](https://breizhdataday.github.io).
