@@ -1,7 +1,5 @@
 # Portfolio
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-
 > I hear and I forget.  
 > I see and I remember.  
 > I do and I understand.
@@ -11,8 +9,6 @@
 *Avertissement : tous les projets référencés sur cette page ont été réalisés hors-contexte professionnel, dans le cadre de travaux originaux et personnels.*
 
 ## Meetup
-
-<i class="fab fa-meetup"></i>
 
 - **Paris Datageeks** : [U-SQL Case Study](https://www.meetup.com/fr-FR/Paris-Datageeks/events/234174268/)
   - [Présentation](https://www.slideshare.net/mcaradec/paris-dldatageeks-meetup-05102016).
