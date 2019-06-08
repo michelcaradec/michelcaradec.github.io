@@ -1,5 +1,11 @@
 # Portfolio
 
+> I hear and I forget.  
+> I see and I remember.  
+> I do and I understand.
+
+> Information shared, knowledge squared.
+
 *Avertissement : tous les projets référencés sur cette page ont été réalisés hors-contexte professionnel, dans le cadre de travaux originaux et personnels.*
 
 ## Meetup
