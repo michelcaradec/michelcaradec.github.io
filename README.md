@@ -78,9 +78,9 @@ Contributeur sur **[Data-Bzh](http://data-bzh.fr/)**, blog dédié à l'Open Dat
 - Groupes Meetup à Rennes
   - [Partie 1](http://data-bzh.fr/groupes-meetup-a-rennes-partie-1/).
   - [Partie 2](http://data-bzh.fr/groupes-meetup-a-rennes-partie-2/).
-  - [Partie 3 (Neo4j](http://data-bzh.fr/groupes-meetup-a-rennes-partie-3-neo4j/).
-  - [Interface de navigation](https://michelcaradec.github.io/MeetupRennes/member_to_group/index.html).
-  - [Graphe exemple](http://console.neo4j.org/?id=l771u9) dans la console Neo4j.
+  - [Partie 3 (Neo4j)](http://data-bzh.fr/groupes-meetup-a-rennes-partie-3-neo4j/).
+    - [Interface de navigation](https://michelcaradec.github.io/MeetupRennes/member_to_group/index.html).
+    - [Graphe exemple](http://console.neo4j.org/?id=l771u9) dans la console Neo4j.
 
 Articles réalisés avec l'environnement statistique **[R](https://cran.r-project.org)**.
 
