@@ -99,6 +99,7 @@ Articles réalisés avec l'environnement statistique **[R](https://cran.r-projec
 - [Applied Data Science](https://www.classcentral.com/course/open-education-by-blackboard-applied-data-science-an-introduction-1806).
 - [Comment devenir un bon datajournaliste](https://mooc.rue89.com/courses/course-v1:TestX+TST-02+now/about).
 - [Intro to Hadoop and MapReduce](https://eu.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617).
+- [Kaggle R Tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-r-tutorial-on-machine-learning).
 
 ## Blog et présentations
 
