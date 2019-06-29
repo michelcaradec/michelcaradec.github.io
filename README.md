@@ -125,7 +125,7 @@ Articles réalisés avec l'environnement statistique **[R](https://cran.r-projec
 
 - Projet [Graph Theory with Neo4j](https://community.neo4j.com/t/graph-theory-with-neo4j/137).
 
-> This is a really great workshop @mcaradec. Thanks so much for creating it. I can only recommend it to other folks.
+> This is a really great workshop @mcaradec. Thanks so much for creating it. I can only recommend it to other folks.  
 > Michael Hunger, Caretaker General Neo4j Community.
 
 - Projet [Graph-OLAP - An attempt to model an OLAP cube with Neo4j](https://community.neo4j.com/t/graph-olap-an-attempt-to-model-an-olap-cube-with-neo4j/136).
