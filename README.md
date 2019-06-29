@@ -90,6 +90,16 @@ Articles réalisés avec l'environnement statistique **[R](https://cran.r-projec
 
 - [Réutilisations data.gouv.fr](https://www.data.gouv.fr/fr/users/michel-caradec/) (plateforme ouverte des données publiques françaises).
 
+## MOOC
+
+<i class="fas fa-graduation-cap fa-4x"></i>
+
+- [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/course-v1:UPSUD+42001+session09/ed827b15762542189af573ef096521f3/).
+- [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning).
+- [Applied Data Science](https://www.classcentral.com/course/open-education-by-blackboard-applied-data-science-an-introduction-1806).
+- [Comment devenir un bon datajournaliste](https://mooc.rue89.com/courses/course-v1:TestX+TST-02+now/about).
+- [Intro to Hadoop and MapReduce](https://eu.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617).
+
 ## Blog et présentations
 
 <i class="fas fa-blog fa-4x"></i>
