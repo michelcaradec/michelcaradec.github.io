@@ -43,6 +43,9 @@
 
 <i class="fas fa-project-diagram fa-4x"></i>
 
+- **String Checker JS** : Extension Visual Studio Code permettant la recherche dans du code source JavaScript et TypeScript de chaînes de caractères contenant du texte en langage naturel
+  - [Projet Github](https://github.com/michelcaradec/string-checker-js).
+  - [Publication sur la place de marché](https://marketplace.visualstudio.com/items?itemName=michel-caradec.string-checker-js).
 - **OxSirene** : Identification des revendeurs d'une place de marché les plus proches de chez vous
   - [Article d'introduction](https://www.linkedin.com/pulse/oxsirene-identification-des-revendeurs-dune-place-de-michel-caradec).
   - Projets Github [OxSirene-Server](https://github.com/michelcaradec/oxsirene-server) et [OxSirene-Chrome](https://github.com/michelcaradec/oxsirene-chrome).
