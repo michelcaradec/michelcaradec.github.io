@@ -104,6 +104,7 @@ Articles réalisés avec l'environnement statistique **[R](https://cran.r-projec
 - [Comment devenir un bon datajournaliste](https://mooc.rue89.com/courses/course-v1:TestX+TST-02+now/about).
 - [Intro to Hadoop and MapReduce](https://eu.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617).
 - [Kaggle R Tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-r-tutorial-on-machine-learning).
+- [Introduction to Data Science](https://www.udemy.com/course/introduction-to-data-science/).
 
 ## Blog et présentations
 
