@@ -29,6 +29,10 @@
 - **Microsoft User Group** : [Projet OxSirene - Places de marché et empreinte carbone](https://www.meetup.com/fr-FR/Microsoft-User-Group-Rennes/events/261257377/)
   - [Présentation](https://github.com/michelcaradec/michelcaradec.github.io/tree/master/OxSirene).
   - [Vidéo présentation](https://youtu.be/x-lm7UE26g4).
+- **Python Rennes** : [Python at scale - a Reech case-study](https://www.meetup.com/python-rennes/events/284605135/)
+  - [Présentation](https://gitlab.com/reech-oss/meetup/meetup-python-rennes-at-scale/-/blob/main/assets/Meetup%20Python%20Rennes%20-%20Python%20At%20Scale.pdf).
+  - [Projet GitLab](https://gitlab.com/reech-oss/meetup/meetup-python-rennes-at-scale).
+  - [Vidéo présentation](https://youtu.be/Jj3GRaOMpI8).
 
 ## Conférence & Podcast
 
