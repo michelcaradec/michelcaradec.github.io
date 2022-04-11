@@ -157,3 +157,9 @@ Articles réalisés avec l'environnement statistique **[R](https://cran.r-projec
 
 > Michel Caradec, responsable technique de Cegid à Rennes, vous présente les projets et atouts du leader des logiciels de gestion en France.  
 > ...
+
+- [Présentation Reech - Lead Data Engineer](https://youtu.be/vNRF0u4Yqho?list=PLUndIPKSZI5S2_s6MzipcgyzmVkMEWmj4).
+
+> Après une longue expérience de développeur autour de solutions de Business Intelligence, Michel, de par son attrait pour les sujets liés au traitement des données dans un contexte distribué et Cloud, s’est dirigé vers le poste de Lead Data Engineer chez Reech.  
+> Sa mission : assurer la collecte des données des réseaux sociaux, tant sur leur qualité que sur leur homogénéisation. Celles-ci sont mises en valeur par l'offre Reech Influence Cloud, la solution d'influence marketing de Reech.  
+> Ses passions : trail running, musique, bande dessinée.
