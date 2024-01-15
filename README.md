@@ -37,6 +37,9 @@
   - [On a testé pour vous... méthodologie, outils, property based testing](https://www.meetup.com/python-rennes/events/290988579/) :
     - [Projet GitLab](https://gitlab.com/reech-oss/meetup/meetup-python-rennes-property-based-testing).
     - [Vidéo présentation](https://youtu.be/mV0vTbs2cQ0).
+  - [Type, Plugin et Match](https://www.meetup.com/python-rennes/events/298324820/) :
+    - [Projet GitLab](https://gitlab.com/reech-oss/meetup/meetup-python-rennes-typing).
+    - [Vidéo présentation](https://youtu.be/qAS-zj0irEM).
 
 ## Conférence & Podcast
 
