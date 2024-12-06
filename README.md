@@ -40,6 +40,9 @@
   - [Type, Plugin et Match](https://www.meetup.com/python-rennes/events/298324820/) :
     - [Projet GitLab](https://gitlab.com/reech-oss/meetup/meetup-python-rennes-typing).
     - [Vidéo présentation](https://youtu.be/qAS-zj0irEM).
+  - [Fantastic bits and where to find them : benchmark et profilage](https://www.meetup.com/fr-FR/python-rennes/events/304755952/) :
+    - [Projet GitLab](https://gitlab.com/reech-oss/meetup/meetup-python-rennes-profiling).
+    - [Vidéo présentation](https://youtu.be/eY5k9GcHRVM).
 
 ## Conférence & Podcast
 
