@@ -43,6 +43,9 @@
   - [Fantastic bits and where to find them : benchmark et profilage](https://www.meetup.com/fr-FR/python-rennes/events/304755952/) :
     - [Projet GitLab](https://gitlab.com/reech-oss/meetup/meetup-python-rennes-profiling).
     - [Vidéo présentation](https://youtu.be/eY5k9GcHRVM).
+  - [Horsebox, de l'idée à la réalisation - retour d'expérience](https://www.meetup.com/python-rennes/events/307955357/) : 
+    - [Project GitHub](https://github.com/michelcaradec/horsebox).
+    - [Vidéo présentation](https://youtu.be/V3MPaTTvpHk).
 
 ## Conférence & Podcast
 
