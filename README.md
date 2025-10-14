@@ -60,6 +60,9 @@
 
 <i class="fas fa-project-diagram fa-4x"></i>
 
+- **Horsebox** : Outil de ligne de commande polyvalent et autonome pour la recherche.
+  - [Project GitHub](https://github.com/michelcaradec/horsebox).
+  - [Vidéo présentation](https://youtu.be/V3MPaTTvpHk) (dans le cadre du Meetup [Horsebox, de l'idée à la réalisation - retour d'expérience](https://www.meetup.com/python-rennes/events/307955357/)).
 - **String Checker JS** : Extension Visual Studio Code permettant la recherche dans du code source JavaScript et TypeScript de chaînes de caractères contenant du texte en langage naturel
   - [Article d'introduction](https://www.linkedin.com/pulse/string-checker-js-pr%C3%A9paration-%C3%A0-la-traduction-michel-caradec).
   - [Projet Github](https://github.com/michelcaradec/string-checker-js).
@@ -79,27 +82,27 @@ De nombreux autres projets sont disponibles sur [Github](https://github.com/mich
 
 <i class="fab fa-r-project fa-4x"></i>
 
-Contributeur sur **[Data-Bzh](http://data-bzh.fr/)**, blog dédié à l'Open Data en Bretagne :
+Contributeur sur **[Data-Bzh](https://web.archive.org/web/20250803143857/https://data-bzh.fr/)**, blog dédié à l'Open Data en Bretagne :
 
-- [Étude de la carte scolaire rennaise](http://data-bzh.fr/etude-de-la-carte-scolaire-rennaise/).
+- [Étude de la carte scolaire rennaise](https://web.archive.org/web/20230305075929/https%3A%2F%2Fdata-bzh.fr%2Fetude-de-la-carte-scolaire-rennaise%2F).
 - Démographie bretonne
-  - [Volet 1 : les décès](http://data-bzh.fr/demographie-bretonne-volet-1-les-deces/).
-  - [Volet 2 : les naissances](http://data-bzh.fr/demographie-bretonne-volet-2-les-naissances/).
-  - [Volet 3 : les accouchements](http://data-bzh.fr/demographie-bretonne-volet-3-accouchements/).
-- [Matinale Big Data Rennes Atalante](http://data-bzh.fr/matinale-big-data-rennes-atalante/).
-- [Les élus du conseil départemental d’Ille et Vilaine](http://data-bzh.fr/elus-conseil-departemental-dille-vilaine/).
-- [Les entreprises en Bretagne administrative](http://data-bzh.fr/entreprises-bretagne-administrative/).
-- [Retour sur le premier meetup Rennes Data Club](http://data-bzh.fr/retour-sur-le-premier-meetup-rennes-data-club/).
-- [Parrainages aux élections présidentielles de 2017](http://data-bzh.fr/parrainages-aux-elections-presidentielles-de-2017/).
+  - [Volet 1 : les décès](https://web.archive.org/web/20230305080255/http%3A%2F%2Fdata-bzh.fr%2Fdemographie-bretonne-volet-1-les-deces%2F).
+  - [Volet 2 : les naissances](https://web.archive.org/web/20230305080417/http%3A%2F%2Fdata-bzh.fr%2Fdemographie-bretonne-volet-2-les-naissances%2F).
+  - [Volet 3 : les accouchements](https://web.archive.org/web/20230305080432/http://data-bzh.fr/demographie-bretonne-volet-3-accouchements/).
+- [Matinale Big Data Rennes Atalante](https://web.archive.org/web/20230305080808/http%3A%2F%2Fdata-bzh.fr%2Fmatinale-big-data-rennes-atalante%2F).
+- [Les élus du conseil départemental d’Ille et Vilaine](https://web.archive.org/web/20230305080917/http%3A%2F%2Fdata-bzh.fr%2Felus-conseil-departemental-dille-vilaine%2F).
+- [Les entreprises en Bretagne administrative](https://web.archive.org/web/20230305081203/http%3A%2F%2Fdata-bzh.fr%2Fentreprises-bretagne-administrative%2F).
+- [Retour sur le premier meetup Rennes Data Club](https://web.archive.org/web/20230305081402/http%3A%2F%2Fdata-bzh.fr%2Fretour-sur-le-premier-meetup-rennes-data-club%2F).
+- [Parrainages aux élections présidentielles de 2017](https://web.archive.org/web/20230305081611/http%3A%2F%2Fdata-bzh.fr%2Fparrainages-aux-elections-presidentielles-de-2017%2F).
 - Noms des entreprises en Bretagne administrative
-  - [Partie 1](http://data-bzh.fr/noms-entreprises-bretagne-administrative-partie-1/).
-  - [Partie 2](http://data-bzh.fr/noms-entreprises-bretagne-administrative-partie-2/).
-- [Rennes Urban Trail 2017](http://data-bzh.fr/rennes-urban-trail-2017/).
-- [Tout Rennes Court 2017](http://data-bzh.fr/rennes-court-2017/).
+  - [Partie 1](https://web.archive.org/web/20230305081243/http%3A%2F%2Fdata-bzh.fr%2Fnoms-entreprises-bretagne-administrative-partie-1%2F).
+  - [Partie 2](https://web.archive.org/web/20250218155518/http://data-bzh.fr/noms-entreprises-bretagne-administrative-partie-2/).
+- [Rennes Urban Trail 2017](https://web.archive.org/web/20230305082056/http%3A%2F%2Fdata-bzh.fr%2Frennes-urban-trail-2017%2F).
+- [Tout Rennes Court 2017](https://web.archive.org/web/20230305082221/http%3A%2F%2Fdata-bzh.fr%2Frennes-court-2017%2F).
 - Groupes Meetup à Rennes
-  - [Partie 1](http://data-bzh.fr/groupes-meetup-a-rennes-partie-1/).
-  - [Partie 2](http://data-bzh.fr/groupes-meetup-a-rennes-partie-2/).
-  - [Partie 3 (Neo4j)](http://data-bzh.fr/groupes-meetup-a-rennes-partie-3-neo4j/).
+  - [Partie 1](https://web.archive.org/web/20230305082243/http%3A%2F%2Fdata-bzh.fr%2Fgroupes-meetup-a-rennes-partie-1%2F).
+  - [Partie 2](https://web.archive.org/web/20230305080849/http%3A%2F%2Fdata-bzh.fr%2Fgroupes-meetup-a-rennes-partie-2%2F).
+  - [Partie 3 (Neo4j)](https://web.archive.org/web/20230305082431/http%3A%2F%2Fdata-bzh.fr%2Fgroupes-meetup-a-rennes-partie-3-neo4j%2F).
     - [Interface de navigation](https://michelcaradec.github.io/MeetupRennes/member_to_group/index.html).
     - [Graphe exemple](http://console.neo4j.org/?id=l771u9) dans la console Neo4j.
 
