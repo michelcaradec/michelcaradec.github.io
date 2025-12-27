@@ -46,6 +46,7 @@
   - [Horsebox, de l'idée à la réalisation - retour d'expérience](https://www.meetup.com/python-rennes/events/307955357/) : 
     - [Project GitHub](https://github.com/michelcaradec/horsebox).
     - [Vidéo présentation](https://youtu.be/V3MPaTTvpHk).
+  - [Python loin de ton ordinateur](https://www.meetup.com/python-rennes/events/311997869/).
 
 ## Conférence & Podcast
 
