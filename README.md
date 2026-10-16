@@ -56,7 +56,9 @@
 - Table ronde [Big & Open Data : conséquences et compétences pour les professionnels de l’information](https://jerennes2015.sciencesconf.org/resource/page/id/5)
   - [Vidéo table ronde](https://www.lairedu.fr/media/video/conference/les-professionnels-de-linformation-face-aux-data/).
   - [Bilan de la journée](https://www.lairedu.fr/collection/journee-detude-big-et-open-data/).
-- Podcast **Bigdata Hebdo** : [Microsoft U-SQL avec Michel Caradec](https://www.spreaker.com/user/vhe74/episode-35-microsoft-u-sql-avec-michel-c).
+- Podcast **Bigdata Hebdo** :
+  - [Microsoft U-SQL avec Michel Caradec](https://www.spreaker.com/user/vhe74/episode-35-microsoft-u-sql-avec-michel-c).
+  - [DuckDB avec Michel Caradec](https://www.bigdatahebdo.com/podcast/episode-232-duckdb-avec-michel-caradec/) ([vidéo](https://youtu.be/_JzDoOkrz6k)).
 
 ## Projets - Développement
 
