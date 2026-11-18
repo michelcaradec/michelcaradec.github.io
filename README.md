@@ -48,6 +48,9 @@
     - [Vidéo présentation](https://youtu.be/V3MPaTTvpHk).
   - [Python loin de ton ordinateur](https://www.meetup.com/python-rennes/events/311997869/) :
     - [Vidéo de la présentation](https://youtu.be/Dzjjwhx2Amk).
+  - [DuckDB & Parquet - L’équipe gagnante pour l’analyse de données](https://www.meetup.com/python-rennes/events/316995867/) :
+    - [Project GitHub](https://github.com/michelcaradec/meetup-duckdb-parquet).
+    - [Vidéo de la présentation](https://youtu.be/RJ6kRpE6i7U).
 
 ## Conférence & Podcast
 
